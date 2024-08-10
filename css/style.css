@@ -376,5 +376,39 @@ footer{
   .contact-us{
     width: 90%;
   }
+}
 
+@media screen and (max-width:300px) {
+  .menu-navegacion{
+    width: 50vw;
+  }
+
+  .hamburguesa{
+    top: 20px;
+    right: 20px;
+  }
+
+  .titulo{
+    font-size: 30px;
+  }
+
+  .subtitulo{
+    font-size: 30px;
+  }
+
+  .agregar-imagen{
+    width: 95%;
+  }
+
+  .img-galeria{
+    width: 95%;
+  }
+
+  .social-media{
+    width: 100%;
+  }
+
+  .contact-us{
+    width: 90%;
+  }
 }
